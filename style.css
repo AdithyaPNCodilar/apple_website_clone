@@ -584,3 +584,162 @@ header {
       .footer-legal-links a:hover {
         color: #333;
       }
+
+
+/* Investers Relations */
+
+.nav2 .row div h4{
+    display: inline;
+    position: relative;
+    right: 80px;
+}
+.nav2 .row div ul {
+    display: inline;
+    position: relative;
+    left: 80px;
+}
+.nav2 .row {
+    display: flex;
+}
+.nav2 .row .col {
+    display: flex;
+    justify-content: space-between;
+}
+.nav2 .row .col li{
+    list-style: none;
+    display: inline;
+}
+
+.company {
+    background: url(./images/company.jpg);
+}
+.title-company {
+    margin-top: 350px;
+    color: white;
+}
+
+/* Investor */
+.investor {
+    background-color: rgb(244, 245, 246);
+    padding-bottom: 50px;
+}
+.title-heading-investor {
+    color: black;
+    text-align: left;
+    padding-top: 5.5rem;
+    font-size: 5.6rem;
+    line-height: 1.07143;
+    letter-spacing: -.005rem;
+}
+.title-sub-heading-investor {
+    font-size: 2.65rem;
+    margin-top: .6rem;
+    letter-spacing: .008rem;
+    font-weight: 400;
+    padding-top: 7.3rem;
+}
+.title-heading-mini {
+    padding-top: 3.2rem;
+    font-size: 1.65rem;
+}
+.cta-link-investor {
+    font-size: 1.60rem;
+    padding-top: .3rem;
+    color: #2a9cf9;
+}
+.proxy {
+    background-color: white;
+    padding-bottom: 50px;
+}
+.title-sub-heading-proxy {
+    font-size: 2.65rem;
+    margin-top: .6rem;
+    letter-spacing: .008rem;
+    font-weight: 400;
+    padding-top: 7.3rem;
+    padding-bottom: 3.2rem;
+}
+.cta-link-proxy {
+    font-size: 1.60rem;
+    padding-top: .3rem;
+    color: #2a9cf9;
+}
+.para-meeting {
+    font-size: 1.60rem;
+    padding-top: .3rem;
+    padding-bottom: 3.8rem;
+}
+
+/* newsroom */
+.newsroom {
+    background-color: rgb(244, 245, 246);
+}
+.image-col {
+    width: 50%;
+  }
+.content-col {
+    padding-left: 50px;
+    width: 50%;
+  }
+.row1{    
+    display: flex;
+  }
+.image-gallery img {
+    max-width: 100%;
+    margin: 10px;
+    padding-top: 50px;
+  }
+  .title-sub-heading-news {
+    font-size: 2.65rem;
+    margin-top: .6rem;
+    letter-spacing: .008rem;
+    font-weight: 400;
+    padding-top: 7.3rem;
+    padding-bottom: 1.5rem;
+  }
+  .title-heading-mini-news {
+    padding-top: 0.8rem;
+    font-size: 1.65rem;
+}
+.cta-link-news {
+    font-size: 1.60rem;
+    padding-top: 0.8rem;
+    color: #2a9cf9;
+}
+.row-1 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  .row-1 .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .row-1 .col img{
+    width:50%;
+  }
+.img {
+    width: 100%;
+    height: 250px;
+}
+ .cta-link-align {
+    text-align: center;
+    color: #0b75cd;
+    font-size: 1.6rem;
+    margin-top: 50px;
+ } 
+.finance {
+    background-color: rgb(244, 245, 246);
+    padding-bottom: 50px;
+} 
+.years ul li { 
+    text-decoration: none;
+    display: inline;
+    padding-top: 15px;
+    font-size: 12px;
+    margin: 10px;
+}
+       
